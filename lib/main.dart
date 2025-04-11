@@ -1,6 +1,5 @@
 import 'package:fixtures/core/colors.dart';
 import 'package:fixtures/providers/fixture_provider.dart';
-import 'package:fixtures/providers/prediction_provider.dart';
 import 'package:fixtures/view/dashboard/dashboard.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -17,7 +16,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider(create: (context)=>PredictionProvider()),
         ChangeNotifierProvider(create: (context)=>FixtureProvider()),
       ],
       child: MaterialApp(

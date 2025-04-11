@@ -1,5 +1,4 @@
 import 'package:fixtures/core/colors.dart';
-import 'package:fixtures/view/history/history_screen.dart';
 import 'package:fixtures/view/home/home_view.dart';
 import 'package:flutter/material.dart';
 

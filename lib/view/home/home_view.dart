@@ -1,7 +1,7 @@
 import 'package:fixtures/core/colors.dart';
 import 'package:fixtures/providers/fixture_provider.dart';
-import 'package:fixtures/view/home/widget/fixtures_widget.dart';
-import 'package:fixtures/view/home/widget/live_game_widget.dart';
+import 'package:fixtures/widget/fixtures_widget.dart';
+import 'package:fixtures/widget/live_game_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:provider/provider.dart';

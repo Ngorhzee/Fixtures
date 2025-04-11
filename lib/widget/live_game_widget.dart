@@ -1,7 +1,7 @@
 import 'package:fixtures/core/colors.dart';
 import 'package:fixtures/model/fixture_model.dart';
 import 'package:fixtures/view/home/place_bet_screen.dart';
-import 'package:fixtures/view/home/widget/fixtures_widget.dart';
+import 'package:fixtures/widget/fixtures_widget.dart';
 import 'package:fixtures/widget/app_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
