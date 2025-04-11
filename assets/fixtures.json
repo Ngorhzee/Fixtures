@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "home_team": "Arsenal",
+    "home_name":"ARS",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "away_team": "Chelsea",
+    "away_name":"CHE",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+    "date": "2025-04-05T16:00:00Z"
+  },
+  {
+    "id": 2,
+    "home_team": "Manchester City",
+    "home_name":"MCL",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "away_team": "Liverpool",
+    "away_name":"LVP",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "date": "2025-04-06T18:00:00Z"
+  },
+  {
+    "id": 3,
+    "home_team": "Tottenham",
+    "home_name":"TOT",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+    "away_team": "Everton",
+    "away_name":"EVE",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
+    "date": "2025-04-07T19:30:00Z"
+  },
+  {
+    "id": 4,
+    "home_team": "Leicester City",
+    "home_name":"LCI",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "away_team": "West Ham",
+    "away_name":"WES",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "date": "2025-04-08T17:45:00Z"
+  },
+  {
+    "id": 5,
+    "home_team": "Newcastle",
+    "home_name":"NCL",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+    "away_team": "Aston Villa",
+    "away_name":"ASV",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+    "date": "2025-04-09T20:00:00Z"
+  },
+  {
+    "id": 6,
+    "home_team": "Brighton",
+    "home_name":"BRI",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+    "away_team": "Leeds United",
+    "away_name":"LUD",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+    "date": "2025-04-10T16:00:00Z"
+  },
+  {
+    "id": 7,
+    "home_team": "Southampton",
+    "home_name":"STP",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+    "away_team": "Crystal Palace",
+    "away_name":"CRY",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+    "date": "2025-04-11T14:00:00Z"
+  },
+  {
+    "id": 8,
+    "home_team": "Burnley",
+    "home_name":"BLY",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/6/6d/Burnley_FC_Logo.svg",
+    "away_team": "Brentford",
+    "away_name":"BRT",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg",
+    "date": "2025-04-12T18:30:00Z"
+  },
+  {
+    "id": 9,
+    "home_team": "Wolves",
+    "home_name":"WOV",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+    "away_team": "Nottingham Forest",
+    "away_name":"NOT",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+    "date": "2025-04-13T16:00:00Z"
+  },
+  {
+    "id": 10,
+    "home_team": "Fulham",
+    "home_name":"FUL",
+    "home_logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+    "away_team": "Sheffield United",
+    "away_name":"SHU",
+    "away_logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+    "date": "2025-04-14T20:00:00Z"
+  }
+]
